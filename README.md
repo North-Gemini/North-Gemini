@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @North-Gemini
 - 👀 I’m interested in Front End Programming
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning Next.js and Vue.js
 - 📫 How to reach me halo.artnation@gmail.com
 
 <!---
