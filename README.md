@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @North-Gemini
 - 👀 I’m interested in Front End Programming
 - 🌱 I’m currently learning Next.js and Vue.js
-- 📫 How to reach me halo.artnation@gmail.com
+- 📫 How to reach me artdhe.nugroho@icloud.com
 
 <!---
 North-Gemini/North-Gemini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
